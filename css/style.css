@@ -193,3 +193,195 @@ p {
 .part_3_text h4 {
     padding-bottom: 29px;
 }
+
+
+/* block section part 4 */
+
+.part_4 {
+    margin: auto;
+    margin-top: 260px;
+    
+}
+
+.block2 {
+    background-image: url(../images/block-2.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bolck {
+    display: flex;
+    width: 1320px;
+    
+    gap: 135px;
+    margin: auto;
+}
+
+.block2 .b2text {
+    text-align: center;
+    padding-top: ;
+}
+
+.b2text {
+    padding-top: 162px;
+    width: 350px;
+    
+}
+
+.b2text p {
+    line-height: 100%;
+    width: 255px;
+    margin: auto;
+    size: 14px;
+    line-height: 100%;
+    text-align:justify;
+    
+}
+.b2text h4 {
+    
+    padding-bottom: 39px;
+
+
+}
+
+.b2text h5 {
+    font-family: "Open Sans", sans-serif;
+    color: #FBD784;
+    font-weight: 700;
+    font-size: 18px;
+    text-transform: uppercase;
+     padding-top: 39px;
+    line-height: 100%;
+}
+
+/* Part 5 INDONESIAN CULTURE */
+
+
+.part_5 {
+
+    margin: auto;
+
+}
+
+
+.part5_main {
+    display: flex;
+    
+    width: 1320px;
+    margin: auto;
+    margin-top:260px ;
+    align-items: center;
+    gap: 40px;
+}
+
+.part5_text {
+    width: 660px;
+}
+
+.part5_text h4 {
+    
+}
+
+.part5_text h3 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    line-height: 1.2;
+}
+.part5_text p {
+    text-align: left
+    ;
+}
+
+.part5_text h5 {
+    font-family: "Open Sans", sans-serif;
+    color: #FBD784;
+    font-weight: 700;
+    font-size: 18px;
+    text-transform: uppercase;
+     padding-top:50px;
+    line-height: 100%;
+}
+
+.part5_image {
+    height: 800px;
+    width: 625px;
+    background-color: #FBD784;
+}
+
+/* Fotter part */
+
+.fotermain {
+     width: 1320px;
+    margin: auto;
+    margin-top: 275px;
+    
+}
+
+.section1_fotter {
+    display: flex;
+    justify-content: space-between;
+    width: 1320px;
+    margin: auto;
+    align-items: center;
+}
+.section1_fotter h6 {
+    margin-left: 800px;
+    
+}
+
+.section1_fotter button {
+    background-color: #FFA343;
+    height: 63px;
+    width: 233px;
+    border: none;
+    border-radius: 10px;
+    font-size: 17px;
+    font-weight: 700;
+    color: black;
+}
+
+.section2_fotter {
+    padding-top: 88px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.section2_fotter ul{
+
+    list-style: none;
+    
+
+}
+
+.section2_fotter li {
+    padding-bottom: 30px;
+}
+.section3_fotter {
+    display: flex;
+    justify-content: space-between;
+    
+    padding-top: 70px;
+}
+
+.section4_fotter {
+    text-align: center;
+    padding-top: 160px;
+    padding-bottom: 65px;
+}
+
+.section4_fotter {
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 32%;
+}
+.listhead {
+    color: #FFA343;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+h6 {
+    size: 19px;
+    font-weight: 400;
+}
